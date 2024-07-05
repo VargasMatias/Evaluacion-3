@@ -1,0 +1,48 @@
+[
+    {
+        "nombre" : "Cafe americano"
+    },
+    {
+        "nombre" : "Te chai"
+    },
+    {       
+        "nombre" : "Crossaint"
+    },
+    {
+        "nombre" : "Jugo naranja"
+    },
+    {
+        "nombre" : "Panini Pavo y Queso"
+    },
+    {                   
+        "nombre" : "Pastel Zanahoria"
+    },
+    {
+        "nombre" : "Espresso Doble"
+    },
+    {                   
+        "nombre" : "Batido de frutas"
+    },
+    {                           
+        "nombre" : "Muffin"
+    },          
+    {                       
+        "nombre" : "Ensalada"
+    },      
+    {                       
+        "nombre" : "Chocolate caliente"
+    },
+    {                   
+        "nombre" : "Tarta de frambuesa"
+    },
+    {                   
+        "nombre" : "Sandiwch de huevo"
+    },
+    {                   
+        "nombre" : "Galletas avena"
+    },
+    {
+        "nombre" : "Frappe de caramelo"
+    }
+
+]

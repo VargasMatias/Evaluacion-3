@@ -1,0 +1,152 @@
+[
+    {
+        "nombre": "Tarta de frambuesa",
+        "total_precio": 2900,
+        "iva": 551.0
+    },
+    {
+        "nombre": "Te chai",
+        "total_precio": 4700,
+        "iva": 893.0
+    },
+    {
+        "nombre": "Ensalada",
+        "total_precio": 5700,
+        "iva": 1083.0
+    },
+    {
+        "nombre": "Tarta de frambuesa",
+        "total_precio": 4600,
+        "iva": 874.0
+    },
+    {
+        "nombre": "Espresso Doble",
+        "total_precio": 7400,
+        "iva": 1406.0
+    },
+    {
+        "nombre": "Te chai",
+        "total_precio": 2900,
+        "iva": 551.0
+    },
+    {
+        "nombre": "Tarta de frambuesa",
+        "total_precio": 5100,
+        "iva": 969.0
+    },
+    {
+        "nombre": "Espresso Doble",
+        "total_precio": 5700,
+        "iva": 1083.0
+    },
+    {
+        "nombre": "Espresso Doble",
+        "total_precio": 9200,
+        "iva": 1748.0
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "total_precio": 5500,
+        "iva": 1045.0
+    },
+    {
+        "nombre": "Frappe de caramelo",
+        "total_precio": 3300,
+        "iva": 627.0
+    },
+    {
+        "nombre": "Frappe de caramelo",
+        "total_precio": 3800,
+        "iva": 722.0
+    },
+    {
+        "nombre": "Chocolate caliente",
+        "total_precio": 7700,
+        "iva": 1463.0
+    },
+    {
+        "nombre": "Panini Pavo y Queso",
+        "total_precio": 5800,
+        "iva": 1102.0
+    },
+    {
+        "nombre": "Frappe de caramelo",
+        "total_precio": 4400,
+        "iva": 836.0
+    },
+    {
+        "nombre": "Ensalada",
+        "total_precio": 2500,
+        "iva": 475.0
+    },
+    {
+        "nombre": "Batido de frutas",
+        "total_precio": 8900,
+        "iva": 1691.0
+    },
+    {
+        "nombre": "Tarta de frambuesa",
+        "total_precio": 2000,
+        "iva": 380.0
+    },
+    {
+        "nombre": "Galletas avena",
+        "total_precio": 2000,
+        "iva": 380.0
+    },
+    {
+        "nombre": "Muffin",
+        "total_precio": 7500,
+        "iva": 1425.0
+    },
+    {
+        "nombre": "Chocolate caliente",
+        "total_precio": 4000,
+        "iva": 760.0
+    },
+    {
+        "nombre": "Jugo naranja",
+        "total_precio": 7700,
+        "iva": 1463.0
+    },
+    {
+        "nombre": "Sandiwch de huevo",
+        "total_precio": 3400,
+        "iva": 646.0
+    },
+    {
+        "nombre": "Sandiwch de huevo",
+        "total_precio": 9800,
+        "iva": 1862.0
+    },
+    {
+        "nombre": "Ensalada",
+        "total_precio": 8300,
+        "iva": 1577.0
+    },
+    {
+        "nombre": "Batido de frutas",
+        "total_precio": 7300,
+        "iva": 1387.0
+    },
+    {
+        "nombre": "Jugo naranja",
+        "total_precio": 5200,
+        "iva": 988.0
+    },
+    {
+        "nombre": "Ensalada",
+        "total_precio": 2300,
+        "iva": 437.0
+    },
+    {
+        "nombre": "Batido de frutas",
+        "total_precio": 3900,
+        "iva": 741.0
+    },
+    {
+        "nombre": "Cafe americano",
+        "total_precio": 4100,
+        "iva": 779.0
+    }
+]
